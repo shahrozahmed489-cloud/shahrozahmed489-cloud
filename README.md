@@ -57,28 +57,15 @@ A JavaScript-based Todo application with interactive task management.
 
 ---
 
-##  What I'm Learning
 
-```text
-React.js
-   ↓
-React Router
-   ↓
-Context API
-   ↓
-API Integration
-   ↓
-Advanced React
-   ↓
-Modern Frontend Development
-```
+
 
 ---
 
 ##  Connect With Me
 
  **Email:** [shahroz.ahmed489@gmail.com](mailto:shahroz.ahmed489@gmail.com)
- **Contact:** 03038054884
+ **Contact:** 03114157273
 
 ---
 
